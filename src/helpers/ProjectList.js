@@ -18,9 +18,9 @@ export const projectList = [
     },
     
     {
-        name: "Java Scientific Calculator",
+        name: "Gebeyamed",
         image: Proj2,   
-        skills: "Java, NetBeans, GUI Development, Object-Oriented Programming",
-        githubLink: "https://github.com/robelalex/ScientificCalculator.git" 
+        skills: "HTML, CSS, JavaScript, Node.js, PostgreSQL",
+        githubLink: "https://github.com/robelalex/gebeyamed.git" 
     },
 ]
